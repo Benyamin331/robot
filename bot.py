@@ -8,8 +8,8 @@ import time
 print ("♡ WELCOME ♡")
 print ("<Created By Snipe4Kill>")
 
-bot = Bot(input("Please enter your Auth:"))
-target=input("group guid: ")
+bot = Bot(input("ahttepbunvajalgplsyqizgxotfemtvj"))
+target=input("g0BXz9A06aec6c4287ef73e98c99915b")
 
 print ("The robot was successfully activated.")
 
